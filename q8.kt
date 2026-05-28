@@ -1,5 +1,5 @@
 fun main() {
-    var number = 123456
+    var number = 12345
     var count = 0
 
     while (number != 0) {
